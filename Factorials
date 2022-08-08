@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>Factorial/h2>
+<h2>Factorial</h2>
 
 <p id="demo"></p>
 <script>

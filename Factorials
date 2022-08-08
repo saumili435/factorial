@@ -1,11 +1,11 @@
 
-html>
-body>
+<html>
+<body>
 
-h2>Factorial/h2>
+<h2>Factorial/h2>
 
-p id="demo">/p>
-script>
+<p id="demo"></p>
+<script>
 function myFunction(var a)
 if(a==1)
 {
@@ -18,8 +18,8 @@ else
 function main(var n)
 if(n>0)
 document.getElementById("demo").innerHTML="The Factorial is :" + "main (n)";
-/script>
+</script>
 
-/body>
-/html>
+</body>
+</html>
 
